@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+
+data/raw/Gender_StatsCSV.csv
+
+data/raw/Gender_Statsfootnote.csv
